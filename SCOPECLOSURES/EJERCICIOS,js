@@ -1,0 +1,19 @@
+// SALUDO
+
+function saludo() {
+    let  saludar = `hola`;
+    function saludito(nombre) {
+        saludito= saludar + nombre;
+        console.log(`${saludito}`);
+        function num(n){
+         return n++;
+        console.log(`eres el numero ${n}`);
+        }
+        return saludito;
+    }
+        }
+const p= saludo();
+p("maria",1);
+
+
+//BUSQUEDA EN UN ARREGLO
