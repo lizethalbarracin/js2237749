@@ -26,6 +26,8 @@ function aritmetica(A,B){
         obj.mult();
         obj.div();
 
+//********************************************************************************************************************************/
+
 // ARREGLO
 function Arreglos (arr){
  this.arr=arr;
@@ -59,6 +61,8 @@ console.log(obj.suma());
 console.log(obj.promedio());
 console.log(obj.mayor());
 console.log(obj.menor());
+
+//*******************************************************************************************************************************/
 
 //FRACCIONES
 

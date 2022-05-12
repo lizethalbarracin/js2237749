@@ -11,7 +11,7 @@ function Aprendiz(nombre="aun no tiene",documento=0){
 var ob1=new Aprendiz("Pablo Marmol",123456);
 var ob2=new Aprendiz();
 console.log(ob2.nombre)
-//************************************************** */
+//*******************************************************************************************************************************/
 let q={}
 
 function AnimalDomestico(nombre="Aun sin nombre"){

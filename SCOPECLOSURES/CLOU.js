@@ -14,19 +14,21 @@ maria(1);
 pedro(300);
 maria(5);
 
+//*******************************************************************************************************************************/
+
 // CLASICA
-// function contador(inicio){
-// let i = inicio;
-// function incremento(){
-//     inicio++
-//     console.log(inicio)
-// }
-// return incremento;
-// }
+function contador(inicio){
+let i = inicio;
+function incremento(){
+    inicio++
+    console.log(inicio)
+}
+return incremento;
+}
  
-// const c = contador(10);
-// c();
-// c();
+const c = contador(10);
+c();
+c();
 
 // FLECHA
 const cont=(inicio)=>{
@@ -40,3 +42,4 @@ const cont=(inicio)=>{
 const d= cont(1);
 d();
 d(); 
+

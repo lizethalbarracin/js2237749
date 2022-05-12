@@ -1,7 +1,5 @@
 // CONTEO DE MONEDAS
 
-//clasica
-
 function alcancia(ahorro, monedas) {
     function guardar() {
         return ahorro + monedas;

@@ -31,6 +31,8 @@ b.modelo= "corsa";
 console.log(a._marca);
 console.log(b._modelo);
 
+//*******************************************************************************************************************************/
+
 //LIBRO
 
 class libro{
@@ -99,8 +101,3 @@ var a= new libro();
 var b= new libro (`yo antes de ti`,`panamericana`,`gabriel garcia marquez`,`1980`,`28/10/2014`,`400`)
 console.log(b)
 console.log(a.CambioLibro());
-
-
-// TIEMPO DE LECTURA 
-
-
